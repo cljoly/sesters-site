@@ -1,3 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://seste.rs/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Sesters"
+theme = "landing-page-hugo"
+[params]
+	description = "Fast, offline command-line currency converter"
+
+[[params.social]]
+	title = "github"
+	icon = "github"
+	url = "https://github.com/leowzukw/sesters"
