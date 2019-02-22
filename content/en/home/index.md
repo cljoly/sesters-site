@@ -6,5 +6,5 @@ headless: true
 ---
 
 Fast, offline command-line currency converter.
-Written in Rust
 
+💴 💷 💶 💵
