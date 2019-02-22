@@ -5,5 +5,6 @@ weight: 0
 headless: true
 ---
 
-Fast, offline command-line currency converter
+Fast, offline command-line currency converter.
+Written in Rust
 
