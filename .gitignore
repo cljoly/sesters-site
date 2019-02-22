@@ -9,7 +9,8 @@
 
 # generated files by hugo
 /public/
-/resources/_gen/
+# Keep this for netlify deploy, since Hugo Pipeline are not supported yet
+#/resources/_gen/
 
 # executable may be added to repository
 hugo.exe
